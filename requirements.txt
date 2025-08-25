@@ -1,0 +1,23 @@
+# Core dependencies
+rasa==3.6.20
+rasa-sdk==3.6.2
+
+# Machine Learning
+scikit-learn==1.5.1
+joblib==1.4.2
+numpy==1.26.4
+pandas==2.2.2
+
+# Explainable AI
+lime==0.2.0.1
+
+# Visualization & debugging
+matplotlib==3.9.1
+seaborn==0.13.2
+
+# Database & storage
+SQLAlchemy==2.0.31
+
+# Utils
+tqdm==4.66.4
+requests==2.32.3
